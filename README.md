@@ -3,8 +3,11 @@ Developed a simple CRUD web-app by following tutorials on realpython.com
 
 ## Specification
 Python 3.8.5
+
 Django 3.1.2
+
 Django default db - SQlite
+
 
 ## Preqrequisition
 ### 1. Python
